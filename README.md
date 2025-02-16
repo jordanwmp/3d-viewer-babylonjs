@@ -1,5 +1,9 @@
 # 3D Viewer Babylon.js
 
+## Demonstration
+
+![Demo](screens/demo.gif)
+
 ## Features
 
 - **Display 3D Models**: Support for `.glb` and `.gltf` files
@@ -47,7 +51,4 @@
     ```bash
     npm start
     ```
-
-With this, your project will be ready to display 3D models and their animations directly in the browser!
-
 
