@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ES2017", // Atualizado para ES2017
+      "module": "commonjs",
+      "strict": false,
+      "esModuleInterop": true
+    },
+    "include": [
+      "src",
+      "typings.d.ts"
+    ]
+  }
+  
