@@ -20,10 +20,17 @@
 
 ### Hino
 ![Hino](screens/hino.png)
+[Animated Rhinoceros Walking - Animal Loop](https://sketchfab.com/3d-models/animated-rhinoceros-walking-animal-loop-32abc12d4fe44bd0b116b294194d9615)
 
 ### Car
 ![Car](screens/car.png)
+[Car](https://sketchfab.com/3d-models/car-dda372fc79a146a490aeffa026df7ebe)
 
+### Chair
+![Chair](screens/chair.png)
+
+### Dog
+![Dog](screens/dog.png)
 
 ## How to Use
 
@@ -46,16 +53,4 @@
     ```bash
     npm start
     ```
-# Models from Sketchfab
 
-### Hino
-
-    ```bash
-        https://sketchfab.com/3d-models/animated-rhinoceros-walking-animal-loop-32abc12d4fe44bd0b116b294194d9615
-    ```
-
-### Car
-
-    ```bash
-    https://sketchfab.com/3d-models/car-dda372fc79a146a490aeffa026df7ebe
-    ```
