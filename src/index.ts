@@ -2,7 +2,6 @@ import './styles/styles.sass';
 
 import Setup from './components/setup';
 import FileHandle from './components/fileHandle';
-import Models from './components/models';
 
 const initializeApp = async () => {
 
