@@ -26,12 +26,6 @@
 ![Car](screens/car.png)
 [Car](https://sketchfab.com/3d-models/car-dda372fc79a146a490aeffa026df7ebe)
 
-### Chair
-![Chair](screens/chair.png)
-
-### Dog
-![Dog](screens/dog.png)
-
 ## How to Use
 
 1. **Clone the repository**:
